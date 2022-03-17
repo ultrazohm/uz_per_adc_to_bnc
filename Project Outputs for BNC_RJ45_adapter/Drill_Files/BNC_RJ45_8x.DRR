@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BNC_RJ45_8x.PcbDoc   17.03.2022  09:17:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BNC_RJ45_8x.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             4         PTH        1.81inch (45.94mm)
+T2      28mil (0.711mm)                                           Round             5         PTH        11.90inch (302.18mm)
+T3      35mil (0.899mm)                                           Round             16        PTH        1.66inch (42.20mm)
+T4      40mil (1.016mm)                                           Round             16        PTH        6.37inch (161.68mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        1.26inch (32.00mm)
+T6      85mil (2.159mm)                                           Round             16        PTH        9.07inch (230.39mm)
+T7      130mil (3.299mm)                                          Round             4         PTH        13.40inch (340.44mm)
+T8      128mil (3.251mm)                                          Round             2         NPTH       1.12inch (28.45mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              65
+
+Total Processing Time (hh:mm:ss) : 00:00:00

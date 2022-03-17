@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BNC_RJ45_adapter.PrjPcb]
+   Generated File[BNC_RJ45_8x.TXT]
+   Generated File[BNC_RJ45_8x.LDP]
+   Generated File[BNC_RJ45_8x.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 09:17:30 On 17.03.2022
