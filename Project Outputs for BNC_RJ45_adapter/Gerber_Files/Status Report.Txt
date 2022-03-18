@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [UZ_Per_ADC_to_BNC.PrjPcb]
+   Generated File[UZ_Per_ADC_to_BNC.GTO]
+   Generated File[UZ_Per_ADC_to_BNC.GTS]
+   Generated File[UZ_Per_ADC_to_BNC.GTL]
+   Generated File[UZ_Per_ADC_to_BNC.GBL]
+   Generated File[UZ_Per_ADC_to_BNC.GBS]
+   Generated File[UZ_Per_ADC_to_BNC.GBO]
+   Generated File[UZ_Per_ADC_to_BNC.GM1]
+   Generated File[UZ_Per_ADC_to_BNC.GM2]
+   Generated File[UZ_Per_ADC_to_BNC.GM3]
+   Generated File[UZ_Per_ADC_to_BNC.GM4]
+   Generated File[UZ_Per_ADC_to_BNC.GM5]
+   Generated File[UZ_Per_ADC_to_BNC.GM6]
+   Generated File[UZ_Per_ADC_to_BNC.GM7]
+   Generated File[UZ_Per_ADC_to_BNC.GM8]
+   Generated File[UZ_Per_ADC_to_BNC.GM9]
+   Generated File[UZ_Per_ADC_to_BNC.GM10]
+   Generated File[UZ_Per_ADC_to_BNC.GM11]
+   Generated File[UZ_Per_ADC_to_BNC.GM12]
+   Generated File[UZ_Per_ADC_to_BNC.GM13]
+   Generated File[UZ_Per_ADC_to_BNC.GM14]
+   Generated File[UZ_Per_ADC_to_BNC.GM15]
+   Generated File[UZ_Per_ADC_to_BNC.GKO]
+   Generated File[UZ_Per_ADC_to_BNC.RUL]
+   Generated File[UZ_Per_ADC_to_BNC.EXTREP]
+   Generated File[UZ_Per_ADC_to_BNC.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 09:07:07 On 18.03.2022
