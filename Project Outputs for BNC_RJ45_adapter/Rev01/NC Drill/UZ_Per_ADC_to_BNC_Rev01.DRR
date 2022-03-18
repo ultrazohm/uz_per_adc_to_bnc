@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_Per_ADC_to_BNC.PcbDoc   18.03.2022  14:07:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_Per_ADC_to_BNC_Rev01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             4         PTH        1.81inch (45.94mm)
+T2      28mil (0.711mm)                                           Round             5         PTH        11.31inch (287.23mm)
+T3      35mil (0.899mm)                                           Round             16        PTH        1.66inch (42.20mm)
+T4      38mil (0.97mm)                                            Round             16        PTH        6.38inch (161.96mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        1.26inch (32.00mm)
+T6      81mil (2.06mm)                                            Round             16        PTH        9.08inch (230.68mm)
+T7      130mil (3.299mm)                                          Round             4         PTH        13.40inch (340.44mm)
+T8      128mil (3.251mm)                                          Round             2         NPTH       1.12inch (28.45mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              65
+
+Total Processing Time (hh:mm:ss) : 00:00:00

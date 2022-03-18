@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [Manufacturing] of PCB Document [UZ_Per_ADC_to_BNC.PcbDoc]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GTO]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GTP]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GTS]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GTL]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GBL]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GBS]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GBP]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GBO]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.GM1]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.RUL]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.EXTREP]
+   Generated File[UZ_Per_ADC_to_BNC_Rev01.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:07:32 On 18.03.2022
