@@ -147,141 +147,21 @@ Variation3=Designator=R2D|UniqueId=\4UMCFAJBU\TMDXATAJ|Kind=1|AlternatePart=
 Variation4=Designator=R2C|UniqueId=\3UMCFAJBU\TMDXATAJ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\Rev01\BOM\BOM_UZ_Per_ADC_to_BNC_Manufacturing_Rev01.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\Design Rule Check - UZ_Per_ADC_to_BNC.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.REP
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for BNC_RJ45_adapter\UZ_Per_ADC_to_BNC.TXT
-DItemRevisionGUID=
-
 [Parameter1]
-Name=AuthorParam
-Value=ZC
+Name=ProjectRevision
+Value=Rev02
 
 [Parameter2]
-Name=Project
-Value=UZ_Per_ADC_to_BNC
-
-[Parameter3]
 Name=ProjectDate
 Value=01/2026
 
+[Parameter3]
+Name=Project
+Value=UZ_Per_ADC_to_BNC
+
 [Parameter4]
-Name=ProjectRevision
-Value=Rev02
+Name=AuthorParam
+Value=E. Aufderheide
 
 [Configuration1]
 Name=Sources
@@ -1341,10 +1221,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=user.DbLib/Connector
+ComponentDesignItemID0=5227661-1
+ComponentSymbolReference0=BNC
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1358,6 +1244,73 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Alternate Manufacturer
+ParameterUpdate0=1
+ParameterName1=Alternate PartNumber
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=ComponentLink1Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink1URL
+ParameterUpdate5=1
+ParameterName6=CompType
+ParameterUpdate6=1
+ParameterName7=Created from
+ParameterUpdate7=1
+ParameterName8=Created On
+ParameterUpdate8=1
+ParameterName9=Description
+ParameterUpdate9=1
+ParameterName10=Last Updated
+ParameterUpdate10=1
+ParameterName11=LCSC Part Number
+ParameterUpdate11=1
+ParameterName12=Library Reference
+ParameterUpdate12=1
+ParameterName13=Manufacturer
+ParameterUpdate13=1
+ParameterName14=Manufacturer Part Number
+ParameterUpdate14=1
+ParameterName15=Mounting Type
+ParameterUpdate15=1
+ParameterName16=MountType
+ParameterUpdate16=1
+ParameterName17=Operating Temperature
+ParameterUpdate17=1
+ParameterName18=PackageReference
+ParameterUpdate18=1
+ParameterName19=PartID
+ParameterUpdate19=1
+ParameterName20=PartNumber
+ParameterUpdate20=1
+ParameterName21=RoHS
+ParameterUpdate21=1
+ParameterName22=Series
+ParameterUpdate22=1
+ParameterName23=Supplier 1
+ParameterUpdate23=1
+ParameterName24=Supplier 2
+ParameterUpdate24=1
+ParameterName25=Supplier Part Number 1
+ParameterUpdate25=1
+ParameterName26=Supplier Part Number 2
+ParameterUpdate26=1
+ParameterName27=SymbolCreator
+ParameterUpdate27=1
+ParameterName28=SymbolVersion
+ParameterUpdate28=1
+ParameterName29=U/M
+ParameterUpdate29=1
+ParameterName30=Value
+ParameterUpdate30=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=Right Angle BNC
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
