@@ -1,0 +1,164 @@
+*************************************************************
+FileName = UZ_Per_ADC_to_BNC_Rev02.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : UZ_Per_ADC_to_BNC_Rev02.GM1
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_Per_ADC_to_BNC_Rev02.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UZ_Per_ADC_to_BNC_Rev02.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UZ_Per_ADC_to_BNC_Rev02.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : UZ_Per_ADC_to_BNC_Rev02.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UZ_Per_ADC_to_BNC_Rev02.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UZ_Per_ADC_to_BNC_Rev02.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UZ_Per_ADC_to_BNC_Rev02.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : UZ_Per_ADC_to_BNC_Rev02.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : UZ_Per_ADC_to_BNC_Rev02.GM
+
+
+Used DCodes :
+    D34
+*************************************************************
+
